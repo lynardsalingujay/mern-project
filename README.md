@@ -2,7 +2,7 @@
 
 > React, Redux and Node.js
 
-# Install regular dependencies
+## Install regular dependencies
 
 ```bash
 npm i express express-validator bcryptjs config gravatar jsonwebtoken mongoose request
@@ -17,7 +17,7 @@ npm i express express-validator bcryptjs config gravatar jsonwebtoken mongoose r
 **mongoose** - database modeling  
 **request** - to make an http request to another api
 
-# Install Developer Dependencies
+## Install Developer Dependencies
 
 ```bash
 npm i -D nodemon concurrently
@@ -26,7 +26,7 @@ npm i -D nodemon concurrently
 **nodemon** - to watch our server without to refreshing when we change  
 **concurrently** - to run our backend express server and frond end react server at the same time with one single command
 
-# Run server
+## Run server
 
 ```bash
 npm run server
