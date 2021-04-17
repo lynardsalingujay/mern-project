@@ -1,4 +1,6 @@
-# mern-project
+# MERN project from front to backend
+
+> React, Redux and Node.js
 
 # Install regular dependencies
 
