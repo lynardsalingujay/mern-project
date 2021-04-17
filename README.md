@@ -23,3 +23,9 @@ npm i -D nodemon concurrently
 
 **nodemon** - to watch our server without to refreshing when we change  
 **concurrently** - to run our backend express server and frond end react server at the same time with one single command
+
+# Run server
+
+```bash
+npm run server
+```
